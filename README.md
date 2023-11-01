@@ -3,7 +3,7 @@
 Simple single-page application to summerize basic React concepts.
 
 Check out the React Essentials website at:
-[react-essentials](https://later)
+[react-essentials](https://react-essentials-project.web.app)
 
 ### Here's a picture of the React Essentials page:
 
